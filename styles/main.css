@@ -1,0 +1,31 @@
+
+body {
+    
+   /*background-color: hsla(167, 62%, 42%, 1)*/
+    /* background-image: url("img/groceries.png"); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+
+}
+.content {
+    float: center;
+    background-color: hsla(170, 86%, 10%, 0.54);
+    max-width: 600px;
+    height: 600px;
+    margin: auto;
+    padding: 30px;   
+    text-align: center;
+    color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+ol {
+    font-size: 200%;
+}
+.clearButton {
+    margin-top: 1rem;
+}
+.closeButton {
+    cursor: context-menu;
+}
